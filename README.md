@@ -64,5 +64,5 @@ To run this project locally, you will need to use your own **free API key from G
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YSLSupreme/aifactchecker.git]
+git clone [https://github.com/elsouprano/aifactchecker.git]
 cd AIFactChecker
